@@ -1,1 +1,10 @@
-ip address - 10.3.21.140
+# ip address - 10.3.21.140
+
+# scanning 
+
+Open ports 
+
+```
+22
+80
+
